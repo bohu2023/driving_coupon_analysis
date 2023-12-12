@@ -22,5 +22,4 @@ or <br>
 2, Drivers who is Widowed, Single, or Divorced <br>
 or <br>
 3, Drivers whose occupation is among Building & Grounds Cleaning & Maintenance, Protective Service, Farming Fishing & Forestry, Construction & Extraction <br>
-
 <br>
